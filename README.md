@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Aditya</h1>
 
 ## 💫 About Me:
-🌟 Crafting MERN magic at [aditya7483-portfolio-website.vercel.app](https://aditya7483-portfolio.vercel.app/) !<br>💼 Seeking collaborative opportunities in Full stack development.<br>✨ Let's code something extraordinary! <br>❄️Reach out at adityakumarji74@gmail.com.
+🌟 Crafting MERN magic at [aditya7483-portfolio.vercel.app](https://aditya7483-portfolio.vercel.app/) !<br>💼 Seeking collaborative opportunities in Full stack development.<br>✨ Let's code something extraordinary! <br>❄️Reach out at adityakumarji74@gmail.com.
 
 
 [![](https://visitcount.itsvg.in/api?id=aditya7483thakur&icon=5&color=3)](https://visitcount.itsvg.in)
