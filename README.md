@@ -3,7 +3,7 @@
 ## 💫 About Me:
 🌟 Crafting MERN magic at [aditya7483-portfolio.vercel.app](https://aditya7483-portfolio.vercel.app/) !<br>💼 Seeking collaborative opportunities in Full stack development.<br>✨ Let's code something extraordinary! <br>❄️Reach out at adityakumarji74@gmail.com.
 ![](https://komarev.com/ghpvc/?aditya7483thakur=your-github-aditya7483thakur&style=flat-square)
-[![](https://visitcount.itsvg.in/api?id=aditya7483thakur&icon=5&color=3)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=aditya7483thakur&base=100)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aditya7483thakur/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-kumar-944a80254/) 
 
