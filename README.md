@@ -2,7 +2,6 @@
 
 ## 💫 About Me:
 🌟 Crafting MERN magic at [aditya7483-portfolio.vercel.app](https://aditya7483-portfolio.vercel.app/) !<br>💼 Seeking collaborative opportunities in Full stack development.<br>✨ Let's code something extraordinary! <br>❄️Reach out at adityakumarji74@gmail.com.
-<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/98427b74f215d8453b0bfc5fb2487de5c7df686377f206a428847bab68f50269/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6469706179616e7361726b61723437266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/98427b74f215d8453b0bfc5fb2487de5c7df686377f206a428847bab68f50269/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6469706179616e7361726b61723437266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="aditya7483thakur" data-canonical-src="https://komarev.com/ghpvc/?username=aditya7483thakur&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
 [![](https://visitcount.itsvg.in/api?id=aditya7483thakur&icon=5&color=3)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
