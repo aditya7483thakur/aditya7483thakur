@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Aditya</h1>
 
 ## 💫 About Me:
-🌟 Crafting MERN magic at [aditya7483-portfolio.vercel.app](https://dev-with-adi.vercel.app/) !<br>💼 Seeking collaborative opportunities in Full stack development.<br>✨ Let's code something extraordinary! <br>❄️Reach out at adityakumarji74@gmail.com.
+🌟 Crafting MERN magic at [dev-with-adi.vercel.app](https://dev-with-adi.vercel.app/) !<br>💼 Seeking collaborative opportunities in Full stack development.<br>✨ Let's code something extraordinary! <br>❄️Reach out at adityakumarji74@gmail.com.
 ![](https://komarev.com/ghpvc/?aditya7483thakur=your-github-aditya7483thakur&style=flat-square)
 
 ![](https://komarev.com/ghpvc/?username=aditya7483thakur&base=100)
